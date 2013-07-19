@@ -1,0 +1,6 @@
+[submodule "pic24I2C"]
+	path = pic24I2C
+	url = git://github.com/misje/pic24I2C
+[submodule "ft5x06"]
+	path = ft5x06
+	url = git://github.com/misje/ft5x06
