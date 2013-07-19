@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['ft5x06_5fevent_5fcontact',['FT5X06_EVENT_contact',['../group__ft5x06Driver.html#gga8bbfa9c93ae69a79a7dbef9778d426a7a786381b44d11d9e43eb4e5a139eab46d',1,'ft5x06.h']]],
+  ['ft5x06_5fevent_5finvalid',['FT5X06_EVENT_invalid',['../group__ft5x06Driver.html#gga8bbfa9c93ae69a79a7dbef9778d426a7a96fa0d95efc643dc0c45db8e8329a04c',1,'ft5x06.h']]],
+  ['ft5x06_5fevent_5fputdown',['FT5X06_EVENT_putDown',['../group__ft5x06Driver.html#gga8bbfa9c93ae69a79a7dbef9778d426a7a36af6adf85a900f2d7dfc3984d35563a',1,'ft5x06.h']]],
+  ['ft5x06_5fevent_5fputup',['FT5X06_EVENT_putUp',['../group__ft5x06Driver.html#gga8bbfa9c93ae69a79a7dbef9778d426a7ab310ce9a3bb69b4d3115f4328e67f30e',1,'ft5x06.h']]],
+  ['ft5x06_5fgesture_5fdown',['FT5X06_GESTURE_down',['../group__ft5x06Driver.html#gga7f25a438652d8da68c09a35610cc8e1dabfc5de7a44422d0064cb65787cdcec57',1,'ft5x06.h']]],
+  ['ft5x06_5fgesture_5fleft',['FT5X06_GESTURE_left',['../group__ft5x06Driver.html#gga7f25a438652d8da68c09a35610cc8e1da48c3aa9f7d0757f797395de2888bfdae',1,'ft5x06.h']]],
+  ['ft5x06_5fgesture_5fnone',['FT5X06_GESTURE_none',['../group__ft5x06Driver.html#gga7f25a438652d8da68c09a35610cc8e1dab1d6020548d48c97ab74118f9f973c69',1,'ft5x06.h']]],
+  ['ft5x06_5fgesture_5fright',['FT5X06_GESTURE_right',['../group__ft5x06Driver.html#gga7f25a438652d8da68c09a35610cc8e1da0d7b54ec53f38074a384edd0a0f17bda',1,'ft5x06.h']]],
+  ['ft5x06_5fgesture_5fup',['FT5X06_GESTURE_up',['../group__ft5x06Driver.html#gga7f25a438652d8da68c09a35610cc8e1da7f05bfb0bf89425d4853dfd0ba7f4b27',1,'ft5x06.h']]],
+  ['ft5x06_5fgesture_5fzoomin',['FT5X06_GESTURE_zoomIn',['../group__ft5x06Driver.html#gga7f25a438652d8da68c09a35610cc8e1da24deaac120f63fac1b3c96ce21dfee6e',1,'ft5x06.h']]],
+  ['ft5x06_5fgesture_5fzoomout',['FT5X06_GESTURE_zoomOut',['../group__ft5x06Driver.html#gga7f25a438652d8da68c09a35610cc8e1da219f4383e0d7f666da77395cac40bd3b',1,'ft5x06.h']]],
+  ['ft5x06_5frettouch_5ferr_5fevent',['FT5X06_RETTOUCH_ERR_EVENT',['../group__ft5x06Driver.html#ggae1f2cc1b42ec01db228d61f8cadef964afafa9c755d3065e76189b3bcac6cb253',1,'ft5x06.h']]],
+  ['ft5x06_5frettouch_5ferr_5fi2c_5ferror',['FT5X06_RETTOUCH_ERR_I2C_ERROR',['../group__ft5x06Driver.html#ggae1f2cc1b42ec01db228d61f8cadef964ab6bbd68fcb6357bbd005f2597b83b3c0',1,'ft5x06.h']]],
+  ['ft5x06_5frettouch_5ferr_5fnum_5fpoints',['FT5X06_RETTOUCH_ERR_NUM_POINTS',['../group__ft5x06Driver.html#ggae1f2cc1b42ec01db228d61f8cadef964ad36404aea0e3fbcac781a06ec6657d55',1,'ft5x06.h']]],
+  ['ft5x06_5frettouch_5fnull_5farg',['FT5X06_RETTOUCH_NULL_ARG',['../group__ft5x06Driver.html#ggae1f2cc1b42ec01db228d61f8cadef964ad349c98f22fbbe0fb3fc31d43301ba3a',1,'ft5x06.h']]],
+  ['ft5x06_5frettouch_5fok',['FT5X06_RETTOUCH_OK',['../group__ft5x06Driver.html#ggae1f2cc1b42ec01db228d61f8cadef964a8bf05313f361ce96846e3285fd115d01',1,'ft5x06.h']]]
+];

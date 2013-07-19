@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['i2c_5ferr_5fbusy',['I2C_ERR_busy',['../group__I2CDriver.html#gga2c0b619b80925c2679f30afe0319bd69a59d490688b035aacc0ed4c237cd4ca47',1,'i2cDriver.h']]],
+  ['i2c_5ferr_5fcollisiondetected',['I2C_ERR_collisionDetected',['../group__I2CDriver.html#gga2c0b619b80925c2679f30afe0319bd69a4832b382a3e58116db04d02457c6fb0a',1,'i2cDriver.h']]],
+  ['i2c_5ferr_5fdisabled',['I2C_ERR_disabled',['../group__I2CDriver.html#gga2c0b619b80925c2679f30afe0319bd69adda59b6ad9dc9569abbfc5aadbbb472f',1,'i2cDriver.h']]],
+  ['i2c_5ferr_5finerrorstate',['I2C_ERR_inErrorState',['../group__I2CDriver.html#gga2c0b619b80925c2679f30afe0319bd69a46f8e86045d676f70e43195c293c46f3',1,'i2cDriver.h']]],
+  ['i2c_5ferr_5finternal',['I2C_ERR_internal',['../group__I2CDriver.html#gga2c0b619b80925c2679f30afe0319bd69af78f06e6378c080eb2f968c49fc8585b',1,'i2cDriver.h']]],
+  ['i2c_5ferr_5fnoerror',['I2C_ERR_noError',['../group__I2CDriver.html#gga2c0b619b80925c2679f30afe0319bd69ae087709f5956d9cc5af16e77e320db1a',1,'i2cDriver.h']]],
+  ['i2c_5ferr_5fnothingreceived',['I2C_ERR_nothingReceived',['../group__I2CDriver.html#gga2c0b619b80925c2679f30afe0319bd69af751d3a7515139c6e38c7bb49da9f2e3',1,'i2cDriver.h']]],
+  ['i2c_5ferr_5frxbufferoverflow',['I2C_ERR_RXBufferOverflow',['../group__I2CDriver.html#gga2c0b619b80925c2679f30afe0319bd69a8a17d0e2204d5973c9f13e6694014a1d',1,'i2cDriver.h']]],
+  ['i2c_5ferr_5fslavenack',['I2C_ERR_slaveNACK',['../group__I2CDriver.html#gga2c0b619b80925c2679f30afe0319bd69adeb2b4f0206f61b0489cb175998eb9c6',1,'i2cDriver.h']]],
+  ['i2c_5ferr_5ftxbufferoverflow',['I2C_ERR_TXBufferOverflow',['../group__I2CDriver.html#gga2c0b619b80925c2679f30afe0319bd69af29711c02391d98bbd8fb57ee8f74ba5',1,'i2cDriver.h']]],
+  ['i2c_5fstate_5fack',['I2C_STATE_ack',['../group__I2CDriver.html#ggacad71c93ff8ea2a7b72c84f55fb18559a5e130cf54770ad8b62fc60bef5651427',1,'i2cDriver.h']]],
+  ['i2c_5fstate_5fdatarx',['I2C_STATE_dataRX',['../group__I2CDriver.html#ggacad71c93ff8ea2a7b72c84f55fb18559abd3b201e3582f838f36f017c4467fee6',1,'i2cDriver.h']]],
+  ['i2c_5fstate_5fdatatx',['I2C_STATE_dataTX',['../group__I2CDriver.html#ggacad71c93ff8ea2a7b72c84f55fb18559aa4215846e95a6d088b9e4fd88fbc70df',1,'i2cDriver.h']]],
+  ['i2c_5fstate_5fdisabled',['I2C_STATE_disabled',['../group__I2CDriver.html#ggacad71c93ff8ea2a7b72c84f55fb18559aa30901baa526b0e42a7524043e67e0eb',1,'i2cDriver.h']]],
+  ['i2c_5fstate_5ferror',['I2C_STATE_error',['../group__I2CDriver.html#ggacad71c93ff8ea2a7b72c84f55fb18559af79873be5224ac2cbed3c0a450ba4a5b',1,'i2cDriver.h']]],
+  ['i2c_5fstate_5fidle',['I2C_STATE_idle',['../group__I2CDriver.html#ggacad71c93ff8ea2a7b72c84f55fb18559a9944cb0b9bb426fb59bc73f459bf94c1',1,'i2cDriver.h']]],
+  ['i2c_5fstate_5fsendingrestart',['I2C_STATE_sendingRestart',['../group__I2CDriver.html#ggacad71c93ff8ea2a7b72c84f55fb18559abe7e1318a6b5a2af71124175f66bca58',1,'i2cDriver.h']]],
+  ['i2c_5fstate_5fsendingstart',['I2C_STATE_sendingStart',['../group__I2CDriver.html#ggacad71c93ff8ea2a7b72c84f55fb18559a11d2ccd7e4e577e259a8208bc61c6ae2',1,'i2cDriver.h']]],
+  ['i2c_5fstate_5fsendingstop',['I2C_STATE_sendingStop',['../group__I2CDriver.html#ggacad71c93ff8ea2a7b72c84f55fb18559ad94b317a118adf010943b1d93e15314d',1,'i2cDriver.h']]]
+];
